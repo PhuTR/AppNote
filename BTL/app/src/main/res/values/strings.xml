@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">GoodNotes</string>
+    <string name="my_notes">My Notes</string>
+    <string name="search_notes">Search notes</string>
+    <string name="note_title">Note Title</string>
+    <string name="note_subtitle">note_subtitle</string>
+    <string name="type_note_here">type_note_here</string>
+</resources>
